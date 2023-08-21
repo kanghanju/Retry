@@ -1,4 +1,4 @@
-package codeTree.practice;
+package codeTree.practice.simulation1;
 
 import java.util.Scanner;
 

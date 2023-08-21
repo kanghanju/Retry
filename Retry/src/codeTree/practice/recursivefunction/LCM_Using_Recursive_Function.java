@@ -1,4 +1,4 @@
-package codeTree.practice;
+package codeTree.practice.recursivefunction;
 
 import java.util.Scanner;
 

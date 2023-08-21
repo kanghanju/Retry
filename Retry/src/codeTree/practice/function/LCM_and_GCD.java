@@ -1,4 +1,4 @@
-package codeTree.practice;
+package codeTree.practice.function;
 
 public class LCM_and_GCD {
 	
